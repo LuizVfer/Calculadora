@@ -10,7 +10,7 @@ Uma calculadora simples desenvolvida com HTML, CSS e JavaScript. Esta aplicaçã
 - Desfazer (←)
 - Resultado (=)
 
-#T ecnologias usadas
+# Tecnologias usadas
 - HTML: Para a estrutura da página.
 - CSS: Para o estilo visual da calculadora.
 - JavaScript: Para as interações e lógica de cálculo.
